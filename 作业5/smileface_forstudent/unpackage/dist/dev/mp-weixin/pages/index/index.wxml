@@ -1,0 +1,1 @@
+<view><view><canvas class="mycanvas" canvas-id="mycanvas" data-event-opts="{{[['error',[['canvasErrorHandler',['$event']]]]]}}" binderror="__e"></canvas></view></view>

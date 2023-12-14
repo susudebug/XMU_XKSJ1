@@ -1,0 +1,59 @@
+.red{
+	background-color:#FF0000;
+	float: left;
+	margin-bottom: 10px;
+	height:103px;width:277px;
+}
+.pink{
+	background-color: #FF00FF;
+	width:190px;
+	height:400px;
+	float:right;
+	margin-bottom: 10px;
+}
+.blue{
+	background-color: #0099FF;
+	float:left;
+	width:450px;
+	margin-bottom:10px;
+	margin-right:10px;
+}
+.deepgreen{
+	background-color: #006600;
+	float:right;
+	width:650px;
+	height:25px;
+	margin-bottom: 10px;
+}
+.green1{
+	background-color: #00FF00;
+	float:right;
+	width:137px;
+	height:49px;
+	margin-bottom: 8px;
+}
+.green2{
+	background-color: #00FF00;
+	float:right;
+	width:679px;
+	height:46px;
+	margin-bottom: 10px;
+}
+.deepblue{
+	background-color: #000099;
+	width:970px;
+	height:35px;
+	float:right;
+}
+.yellow{
+	background-color: #FFCC00;
+	float:left;
+	width:310px;
+	height:435px;
+	margin-bottom: 10px;
+	margin-right:10px;
+}
+.bottom{
+	width:970px;
+	padding:50px;
+}
